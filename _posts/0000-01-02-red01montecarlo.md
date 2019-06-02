@@ -2,5 +2,5 @@
 layout: slid
 title: "welcome to our second slide!"
 ---
-Your text
+Yo Hound!
 Use the left arrow to go back!
